@@ -10,9 +10,9 @@
         android:id="@+id/mapView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        mapbox:mapbox_cameraTargetLat="40.7128"
-        mapbox:mapbox_cameraTargetLng="-74.0060"
-        mapbox:mapbox_cameraZoom="9.0"
-        mapbox:mapbox_styleUrl="mapbox://styles/mapbox/streets-v10" />
+        mapbox:mapbox_cameraTargetLat="-41.276825"
+        mapbox:mapbox_cameraTargetLng="174.777969"
+        mapbox:mapbox_cameraZoom="13.0"/>
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
